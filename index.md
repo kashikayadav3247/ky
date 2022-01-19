@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+Portfolio
+I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
 
-You can use the [editor on GitHub](https://github.com/kashikayadav3247/kashikayadav.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Skills
+html css js react angular
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experience
+SENIOR FRONTEND DEVELOPER
+MIRO
+Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-### Markdown
+FRONTEND DEVELOPER
+Booking.com
+Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SOFTWARE DEVELOPER
+NAGARRO PVT, LTD
+Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
-```markdown
-Syntax highlighted code block
+Education
+GURU NANAK DEV UNIVERSITY
+BTech Computer Science (2012- 2016)
+GPA 8.75
 
-# Header 1
-## Header 2
-### Header 3
+INTERESTS
+Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kashikayadav3247/kashikayadav.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
